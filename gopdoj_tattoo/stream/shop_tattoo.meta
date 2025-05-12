@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TattooShopItemArray>
+	<TattooShopItems>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_gunrunning_tattoo_018</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_gunrunning_tattoo_018</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_gunrunning_tattoo_018_1</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_gunrunning_tattoo_018_1</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_smuggler_tattoo_022</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_smuggler_tattoo_022</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_airraces_tattoo_003</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_airraces_tattoo_003</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_importexport_tat_003</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_importexport_tat_003</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>sp_tp_tat_003</textLabel>
+			<collection>tattoo</collection>
+			<preset>sp_tp_tat_003</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>sp_tp_tat_026</textLabel>
+			<collection>tattoo</collection>
+			<preset>sp_tp_tat_026</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>sp_tp_tat_022</textLabel>
+			<collection>tattoo</collection>
+			<preset>sp_tp_tat_022</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_stunt_tat_034</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_stunt_tat_034</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_bea_tat_f_003</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_bea_tat_f_003</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_bea_tat_f_003_1</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_bea_tat_f_003_1</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_gunrunning_tattoo_001</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_gunrunning_tattoo_001</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_gunrunning_tattoo_001_1</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_gunrunning_tattoo_001_1</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_stunt_tat_029</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_stunt_tat_029</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_stunt_tat_029_1</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_stunt_tat_029_1</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>hwskull_000</textLabel>
+			<collection>tattoo</collection>
+			<preset>hwskull_000</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>hwskull_001</textLabel>
+			<collection>tattoo</collection>
+			<preset>hwskull_001</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>hwskull_006</textLabel>
+			<collection>tattoo</collection>
+			<preset>hwskull_006</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>hwskull_002</textLabel>
+			<collection>tattoo</collection>
+			<preset>hwskull_002</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>hwskull_004</textLabel>
+			<collection>tattoo</collection>
+			<preset>hwskull_004</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>hwskull_005</textLabel>
+			<collection>tattoo</collection>
+			<preset>hwskull_005</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>hwskull_003</textLabel>
+			<collection>tattoo</collection>
+			<preset>hwskull_003</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_fm_tat_045</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_fm_tat_045</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_fm_tat_award_000</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_fm_tat_award_000</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_fm_tat_004</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_fm_tat_004</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_gunrunning_tattoo_020</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_gunrunning_tattoo_020</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_lr_tat_018</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_lr_tat_018</preset>
+			<zone>PDZ_LEFT_ARM</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_bea_tat_m_011</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_bea_tat_m_011</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_biker_tat_051</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_biker_tat_051</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_bus_tat_m_000</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_bus_tat_m_000</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_bus_tat_m_006</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_bus_tat_m_006</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_biker_tat_014</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_biker_tat_014</preset>
+			<zone>PDZ_RIGHT_ARM</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_bea_tat_m_011_1</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_bea_tat_m_011_1</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_biker_tat_014_1</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_biker_tat_014_1</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_biker_tat_051_1</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_biker_tat_051_1</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_bus_tat_m_000_1</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_bus_tat_m_000_1</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_bus_tat_m_006_1</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_bus_tat_m_006_1</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_fm_tat_004_1</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_fm_tat_004_1</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_fm_tat_045_1</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_fm_tat_045_1</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_fm_tat_award_000_1</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_fm_tat_award_000_1</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_gunrunning_tattoo_020_1</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_gunrunning_tattoo_020_1</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_lr_tat_018_1</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_lr_tat_018_1</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_bea_tat_m_004</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_bea_tat_m_004</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_bea_tat_m_004_1</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_bea_tat_m_004_1</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_bea_tat_m_004_1</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_bea_tat_m_004_1</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_airraces_tattoo_004</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_airraces_tattoo_004</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>demonic_000</textLabel>
+			<collection>tattoo</collection>
+			<preset>demonic_000</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>demonic_001</textLabel>
+			<collection>tattoo</collection>
+			<preset>demonic_001</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>demonic_002</textLabel>
+			<collection>tattoo</collection>
+			<preset>demonic_002</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>demonic_003</textLabel>
+			<collection>tattoo</collection>
+			<preset>demonic_003</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>demonic_004</textLabel>
+			<collection>tattoo</collection>
+			<preset>demonic_004</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>demonic_005</textLabel>
+			<collection>tattoo</collection>
+			<preset>demonic_005</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>hwskull_000_1</textLabel>
+			<collection>tattoo</collection>
+			<preset>hwskull_000_1</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>hwskull_001_1</textLabel>
+			<collection>tattoo</collection>
+			<preset>hwskull_001_1</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>hwskull_002_1</textLabel>
+			<collection>tattoo</collection>
+			<preset>hwskull_002_1</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>hwskull_003_1</textLabel>
+			<collection>tattoo</collection>
+			<preset>hwskull_003_1</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>hwskull_004_1</textLabel>
+			<collection>tattoo</collection>
+			<preset>hwskull_004_1</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>hwskull_005_1</textLabel>
+			<collection>tattoo</collection>
+			<preset>hwskull_005_1</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>hwskull_006_1</textLabel>
+			<collection>tattoo</collection>
+			<preset>hwskull_006_1</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>hwskull_007</textLabel>
+			<collection>tattoo</collection>
+			<preset>hwskull_007</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>hwskull_008</textLabel>
+			<collection>tattoo</collection>
+			<preset>hwskull_008</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>hwskull_009</textLabel>
+			<collection>tattoo</collection>
+			<preset>hwskull_009</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>hwskull_010</textLabel>
+			<collection>tattoo</collection>
+			<preset>hwskull_010</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>hwskull_011</textLabel>
+			<collection>tattoo</collection>
+			<preset>hwskull_011</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>hwskull_012</textLabel>
+			<collection>tattoo</collection>
+			<preset>hwskull_012</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>hwskull_013</textLabel>
+			<collection>tattoo</collection>
+			<preset>hwskull_013</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>hwskull_014</textLabel>
+			<collection>tattoo</collection>
+			<preset>hwskull_014</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>hwskull_015</textLabel>
+			<collection>tattoo</collection>
+			<preset>hwskull_015</preset>
+			<zone>PDZ_HEAD</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_airraces_tattoo_000</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_airraces_tattoo_000</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_biker_tat_016</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_biker_tat_016</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_biker_tat_023</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_biker_tat_023</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_christmas2017_tattoo_005</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_christmas2017_tattoo_005</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_christmas2017_tattoo_006</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_christmas2017_tattoo_006</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_christmas2017_tattoo_015</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_christmas2017_tattoo_015</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_christmas2017_tattoo_021</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_christmas2017_tattoo_021</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_gunrunning_tattoo_028</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_gunrunning_tattoo_028</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_luxe_tat_008</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_luxe_tat_008</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_smuggler_tattoo_020</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_smuggler_tattoo_020</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_smuggler_tattoo_023</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_smuggler_tattoo_023</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_xm2_tat_m_011</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_xm2_tat_m_011</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>mp_xm2_tat_m_013</textLabel>
+			<collection>tattoo</collection>
+			<preset>mp_xm2_tat_m_013</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>90</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>2</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+	</TattooShopItems>
+</TattooShopItemArray>
